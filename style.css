@@ -1,0 +1,139 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#titlewrap {
+    background-color: #f7afc9;
+    width: auto;
+    height: 800px;
+    margin-top: 0px;
+}
+
+h1 {
+    font-family: 'Gloria Hallelujah', cursive;
+    color: #091e3d;
+    font-size: 80px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h4 {
+    font-family: 'Gloria Hallelujah', cursive;
+    color: #091e3d;
+    margin-top: 0px;
+}
+
+#whatwrap {
+    background-color: #9ddaeb;
+    width: auto;
+    height: 940px;
+    margin-top: 0px;
+    padding-top: 10px;
+    overflow: auto;
+
+}
+
+.titlebox {
+    background: url("images/titlebox.png");
+    background-repeat: no-repeat;
+    width: 636px;
+    height: 110px;
+
+}
+
+h2 {
+    font-family: 'Neucha', cursive;
+    font-size: 55px;
+    color: #091e3d;
+    padding-top: 30px;
+}
+
+
+.ptext {
+    width: 850px;
+    padding-top: 30px;
+}
+
+
+p {
+    font-family: 'Fauna One', serif;
+    color: #091e3d;
+    font-size: 17px;
+    line-height: 30px;
+}
+
+.swordbox {
+    background-image: url("images/swords2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#howtoplay {
+    background-color: #cec2e0;
+    width: auto;
+    height: 1400px;
+    margin-top: 0px;
+    padding-top: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+
+.cardcontainer {
+    width: 1050px;
+    height: 410px;
+    padding-top: 60px;
+}
+
+#modewrap {
+    background-color: #9ddaeb;
+    width: auto;
+    height: 400px;
+    margin-top: 0px;
+    padding-top: 10px;
+}
+
+#swordfighterwrap {
+    background-color: #cec2e0;
+    width: auto;
+    height: 715px;
+    margin-top: 0px;
+    padding-top: 10px;
+}
+
+#mastermindwrap {
+    background-color: #9ddaeb;
+    width: auto;
+    height: 700px;
+    margin-top: 0px;
+    padding-top: 10px; 
+}
+
+#bio {
+    width: 1060px;
+    padding-top: 10px;
+}
+
+.biotext {
+    width: 500px;
+    float: right;
+    padding-top: 125px;
+    padding-right: 35px;
+    text-align: left;
+}
+
+#endwrap {
+    background-color: #f7afc9;
+    width: auto;
+    height: 450px;
+    margin-top: 0px;
+
+    
+}
+
+.iconcontainer {
+    width: 480px;
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
